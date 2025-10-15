@@ -21,4 +21,5 @@ GHI CHÚ
 - Logo và module nằm trong ~/.config/fastfetch/config.jsonc.
 - Nếu dùng Fish/Zsh, thêm đoạn “auto-run” tương tự vào cấu hình shell tương ứng.
 - Có thể dùng script chọn logo ngẫu nhiên và trỏ logo.source tới script đó.
+
 ![Hatsune Miku fastfetch](assets/fastfetch.png)
